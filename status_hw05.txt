@@ -1,0 +1,32 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Anne Lee
+
+
+2. What hostname did you deploy to?
+annelee2001.com
+
+
+3. Which parts of this assignment did you have trouble with, if any?
+I had trouble with deployment and connecting Javascript with Elixir.
+
+
+4. What part of your application state is on the server?
+Functions in the Elixir file including new, makeSecret, view, checkGuess, updateState, getResult, and status are all server side.
+
+
+5. What part of your application state, if any, is in the browser?
+Functions in the Javascript file including printing the instructions, buttons, input box and table are all in the browser where the user can see it.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
